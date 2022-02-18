@@ -6,4 +6,4 @@ import {Component} from "@angular/core";
 })
 export class ServerComponent{
 }
-alert("This is window alert");
+
